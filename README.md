@@ -16,6 +16,5 @@ This repository contains a Jupyter Notebook implementing Hierarchical Clustering
 - Euclidean distance
 - Cluster interpretation
 
-## Requirements
-Install dependencies with:
+
 
